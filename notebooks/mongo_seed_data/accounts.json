@@ -1,0 +1,8 @@
+[
+{ "account_id": "1000", "name": "Cash", "type": "Asset" },
+{ "account_id": "2000", "name": "Accounts Payable", "type": "Liability" },
+{ "account_id": "3000", "name": "Savings", "type": "Asset" },
+{ "account_id": "4000", "name": "Investments", "type": "Liability" },
+{ "account_id": "5000", "name": "Money Market", "type": "Asset" },
+{ "account_id": "6000", "name": "Received", "type": "Liability" }
+]

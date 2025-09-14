@@ -1,0 +1,5 @@
+[
+{"entry_id": "JE1001","date": "2025-05-31","lines": [{ "account_id": "1000", "debit": 500, "credit": 0 },{ "account_id": "2000", "debit": 0, "credit": 500 }],"description": "Vendor payment"},
+{"entry_id": "JE1002","date": "2025-06-01","lines": [{ "account_id": "2000", "debit": 2500, "credit": 0 },{ "account_id": "3000", "debit": 0, "credit": 2500 }],"description": "Account Transfer"},
+{"entry_id": "JE1003","date": "2025-06-01","lines": [{ "account_id": "6000", "debit": 50, "credit": 0 },{ "account_id": "5000", "debit": 0, "credit": 50 }],"description": "Reimbursement"}
+]

@@ -1,0 +1,10 @@
+[
+{ "task_id": "T1", "name": "Reconcile Cash", "assigned_to": "Alice", "status":"Complete", "due_date": "2025-06-05"},
+{ "task_id": "T2", "name": "Review AP", "assigned_to": "Bob", "status": "In Progress","due_date": "2025-06-06"},
+{ "task_id": "T3", "name": "Validate Deposits", "assigned_to": "Carrie", "status": "In Progress","due_date": "2025-06-06"},
+{ "task_id": "T4", "name": "Review AP", "assigned_to": "Jan", "status": "Complete","due_date": "2025-06-07"},
+{ "task_id": "T5", "name": "Close Accounts", "assigned_to": "Megan", "status": "In Progress","due_date": "2025-06-08"},
+{ "task_id": "T6", "name": "Migrate Funds", "assigned_to": "Matt", "status": "Complete","due_date": "2025-06-09"},
+{ "task_id": "T7", "name": "Pay Accounts", "assigned_to": "Hillary", "status": "Complete","due_date": "2025-06-10"},
+{ "task_id": "T8", "name": "Calculate COGs", "assigned_to": "Frank", "status": "In Progress","due_date": "2025-06-09"}
+]
