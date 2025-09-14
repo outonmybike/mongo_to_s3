@@ -57,8 +57,8 @@ Take Home Assessment Notes and considerations:
 - As far as query engines, the one I would recommend would be Snowflake. 
 - It integrates well with data lake structures (especially Iceberg) 
 - Has a very intuitive UI easy for analysts and data scientists to access. Even allows for notebooks. 
-- It allows for quick visualizations of data with the newer Snowsight UI to spot anomalies see trends without having to push it to a BI tool
-- Offers many options for secure data sharing
+- It allows for quick visualizations of data with the newer Snowsight UI to spot anomalies and see trends without having to push it to a BI tool
+- Offers many options for secure data sharing with people outside the org
 - Cloud based infrastructure means less to maintain
 - And the biggest reason I would suggest it is because honestly it's the one I am most familiar with. I've spun instances up from scratch and been the primary admin at multiple jobs. 
 
