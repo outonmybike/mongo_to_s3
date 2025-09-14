@@ -42,7 +42,7 @@ The next series of jupyter notebook cells are "SELECT *" statements to validate 
 
 Step 5:
 Finally, commands are given to optimize the storage of the data with Iceberg compaction functions
-The data retention policy (get rid of snapshots older than 30 days) is also execute in this step
+The data retention policy (get rid of snapshots older than 30 days) is also executed in this step
 
 
 
@@ -64,5 +64,5 @@ Take Home Assessment Notes and considerations:
 
 
 Credits
-The docker-compose file was based on the work from a github repository:
+The docker-compose file was based on the work from this github repository:
 https://github.com/databricks/docker-spark-iceberg/blob/main/docker-compose.yml
